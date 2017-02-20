@@ -35,6 +35,6 @@ djangocms-inherit==0.2.1
 Django-Select2==5.8.10
 {% endif %}
 
-django-reversion==-2.0.8
+django-reversion==2.0.8
 django-rq==0.9.4
 redis==2.10.5
